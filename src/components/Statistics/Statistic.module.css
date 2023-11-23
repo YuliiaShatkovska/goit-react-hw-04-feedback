@@ -1,0 +1,19 @@
+.statistics_list {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.statistic_item {
+  display: flex;
+  align-items: center;
+}
+
+.statistics_text {
+  font-weight: 600;
+}
+
+.statistics_value {
+  margin-left: 5px;
+}
